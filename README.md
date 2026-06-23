@@ -70,7 +70,3 @@ The filter uses four hardcoded signed Q15 coefficients:
 - `4096`
 
 These correspond to a simple low-pass response that is easy to verify in simulation.
-
-## Notes
-
-This workspace currently contains the FIR filter project only. If you add the CPU project later, the same documentation pattern can be reused for its pipeline screenshot and block diagram assets.
