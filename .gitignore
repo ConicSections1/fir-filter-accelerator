@@ -1,0 +1,11 @@
+# Icarus Verilog outputs
+*.vcd
+*.vvp
+sim_executable
+
+# Python caches
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
